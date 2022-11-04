@@ -4,17 +4,17 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](figures/github.png)
+![github](https://i.ibb.co/C0XKCc3/Screenshot-1.png)
 
-## Installation
+## Kurulum
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/borankrdnz/kodluyoruzilkrepo.git
 ```
 
-## Usage
+## Kullanım
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -24,7 +24,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-## Contributing
+## Katkı
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 
